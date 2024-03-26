@@ -1,2 +1,2 @@
 # tictactoe
-Tic tac toe game is made to learns  JavaScript logics.
+Tic tac toe game is made to learn JavaScript logics.
